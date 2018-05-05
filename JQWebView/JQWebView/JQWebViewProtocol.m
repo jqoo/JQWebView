@@ -3,7 +3,7 @@
 //  LoochaCampusMain
 //
 //  Created by zhang jinquan on 12/25/15.
-//  Copyright © 2015 Real Cloud. All rights reserved.
+//  Copyright © 2015 jqoo. All rights reserved.
 //
 
 #import "JQWebViewProtocol.h"

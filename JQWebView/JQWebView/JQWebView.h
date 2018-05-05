@@ -3,7 +3,7 @@
 //  JQWebView
 //
 //  Created by zhang jinquan on 11/24/16.
-//  Copyright © 2016 Real Cloud. All rights reserved.
+//  Copyright © 2016 jqoo. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

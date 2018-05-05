@@ -3,7 +3,7 @@
 //  LoochaCampusMain
 //
 //  Created by zhang jinquan on 9/24/14.
-//  Copyright (c) 2014 Real Cloud. All rights reserved.
+//  Copyright (c) 2014 jqoo. All rights reserved.
 //
 
 #import "JQHTTPSRequestAuthHelper.h"
