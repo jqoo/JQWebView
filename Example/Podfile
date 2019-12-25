@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'JQWebView_Example' do
+  pod 'JQWebView', :path => '../'
+
+  target 'JQWebView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
